@@ -6,25 +6,16 @@ Welcome to my GitHub repository! Here, I showcase projects that blend data analy
 I'm a **Market Research Analyst** passionate about uncovering trends, analyzing consumer behavior, and transforming raw data into actionable insights. With expertise in data-driven strategy, competitive analysis, and pricing optimization, I strive to turn information into impact.
 
 ## 📂 Projects
-### 1️⃣ **Modeling Data in Power BI [superstore]**  
-## Comprehensive Data Modeling & Cleaning
-
-- Understood the objectives of data modeling and its role in business analytics.
-- Loaded and explored the dataset to analyze its structure.
-- Applied data cleaning techniques to identify and rectify errors, ensuring data accuracy.
-
-## Advanced Data Transformation & Analysis
-
-- Used DAX to create calculated columns and compute total sales.
-- Analyzed sales trends by year and category to uncover key business insights.
-- Identified the top three products based on average sales performance.
-
-## Profitability & Business Insights
-
-- Computed net profit for 2015 by segment, highlighting profitability trends.
-- Derived strategic insights that could aid business decision-making.
-- Strengthened expertise in Power BI for real-world business applications.
-
+### 1️⃣ **Data Modeling with Microsoft Power BI**  
+- Understood the objectives and importance of data modeling in business analytics.
+- Loaded and explored a dataset to grasp its structure.
+- Cleaned data by identifying and rectifying errors for accuracy.
+- Used **DAX** to create calculated columns and compute total sales.
+- Analyzed sales trends by year and category.
+- Identified the top three products based on average sales.
+- Computed net profit for 2015 by segment to gain profitability insights.
+- [View Full Report](Superstore project.pbix)
+  
 ### 2️⃣ **Marketing Experiment: Coca-Cola Healthy Beverage Line**  
 - Designed a marketing experiment to measure the impact of **digital advertising** on sales.  
 - Implemented a **before-after design** to track changes in sales performance.  
