@@ -25,9 +25,13 @@ I'm a **Market Research Analyst** passionate about uncovering trends, analyzing 
 - Derived strategic insights that could aid business decision-making.
 - Strengthened expertise in Power BI for real-world business applications.
 
-### 2️⃣ **Customer Sentiment Analysis**  
-- Collected and analyzed customer reviews to gauge brand sentiment.
-- Applied **Python (NLTK, VADER, Pandas)** for sentiment classification.
+### 2️⃣ **Marketing Experiment: Coca-Cola Healthy Beverage Line**  
+- Designed a marketing experiment to measure the impact of **digital advertising** on sales.  
+- Implemented a **before-after design** to track changes in sales performance.  
+- Selected **Austin, TX** as the test market and **Dallas, TX** as the control market to ensure comparability.  
+- Collected and analyzed sales data over a **three-month period** to determine advertising effectiveness.  
+- Explored an alternative experiment using **social media advertising** for better engagement and targeting.  
+- [View Full Report](Marketing_Experiment.pdf)
 
 ### 3️⃣ **Competitor Pricing Strategy**  
 - Investigated pricing models across industries.
