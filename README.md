@@ -6,10 +6,24 @@ Welcome to my GitHub repository! Here, I showcase projects that blend data analy
 I'm a **Market Research Analyst** passionate about uncovering trends, analyzing consumer behavior, and transforming raw data into actionable insights. With expertise in data-driven strategy, competitive analysis, and pricing optimization, I strive to turn information into impact.
 
 ## 📂 Projects
-### 1️⃣ **Telecom Market Analysis**  
-- Analyzed telecom provider speeds and pricing strategies.
-- Filtered and visualized data to identify competitive advantages.
-- Used **Power BI & SQL** for data processing.
+### 1️⃣ **Modeling Data in Power BI [superstore]**  
+## Comprehensive Data Modeling & Cleaning
+
+- Understood the objectives of data modeling and its role in business analytics.
+- Loaded and explored the dataset to analyze its structure.
+- Applied data cleaning techniques to identify and rectify errors, ensuring data accuracy.
+
+## Advanced Data Transformation & Analysis
+
+- Used DAX to create calculated columns and compute total sales.
+- Analyzed sales trends by year and category to uncover key business insights.
+- Identified the top three products based on average sales performance.
+
+## Profitability & Business Insights
+
+- Computed net profit for 2015 by segment, highlighting profitability trends.
+- Derived strategic insights that could aid business decision-making.
+- Strengthened expertise in Power BI for real-world business applications.
 
 ### 2️⃣ **Customer Sentiment Analysis**  
 - Collected and analyzed customer reviews to gauge brand sentiment.
