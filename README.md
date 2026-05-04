@@ -24,10 +24,41 @@ I'm a **Market Research Analyst** passionate about uncovering trends, analyzing 
 - Explored an alternative experiment using **social media advertising** for better engagement and targeting.  
 - [View Full Report](Marketing_Experiment.pdf)
 
-### 3️⃣ **Competitor Pricing Strategy**  
-- Investigated pricing models across industries.
-- Developed dashboards to track pricing trends.
-- Leveraged **Excel & Power BI** for insights.
+### 3️⃣ **Sales Dashboard**  
+- 🎯 I just completed a full end-to-end Power BI project — and here's everything I built.
+ 
+The dataset: 7,991 sales orders across 3 years, a New Zealand-based company selling across Wholesale, Distributor, and Export channels.
+ 
+The goal: Turn raw Excel data into a 9-page interactive business intelligence dashboard that executives can actually use to make decisions.
+ 
+Here's what the project covers 👇
+ 
+📦 DATA PREPARATION
+→ 4 interconnected tables: Sales Orders, Customers, Regions, Products
+→ Power Query transformations: date types, key renaming, fulfillment day calculations
+→ Zero missing values — clean data from day one
+ 
+🏗️ DATA MODELING
+→ Star schema with Sales Orders as the central Fact table
+→ 4 dimension tables connected via integer foreign keys
+→ Dedicated DateTable for time intelligence functions
+ 
+📐 DAX MEASURES (20+ formulas)
+→ Total Revenue: $154.6M | Profit Margin: 92.6%
+→ YoY and MoM revenue growth with SAMEPERIODLASTYEAR
+→ Delay Rate % — discovered ~48% of orders exceed the 7-day target
+→ Customer LTV, segmentation tiers, and order frequency
+ 
+📊 9 DASHBOARD PAGES
+1️⃣ Executive Overview — KPI cards + monthly trend
+2️⃣ Sales Trends — YoY seasonality comparison
+3️⃣ Customer Insights — Top 10 + High/Medium/Low segmentation
+4️⃣ Channel Performance — Wholesale vs Distributor vs Export
+5️⃣ Product Performance — Scatter plot: price vs margin vs volume
+6️⃣ Warehouse Fulfillment — KPI visual with 7-day target
+7️⃣ Regional Analysis — Map with 100 NZ locations
+8️⃣ Cost & Profitability — Margin quadrant analysis
+9️⃣ Currency View — 5-currency revenue breakdown
 
 ## 🛠️ Tools & Technologies
 - **Programming:** Python, R, SQL
