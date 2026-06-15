@@ -65,6 +65,44 @@ Here's what the project covers 👇
 - **Data Visualization:** Power BI, Tableau, Excel
 - **Market Research:** Competitive analysis, Customer insights, Trend forecasting
 
+## AI Due Diligence Copilot
+
+## Overview
+An enterprise-grade, privacy-first AI assistant designed to accelerate financial due diligence. Built for private equity, VC, and M&A analysts, this tool ingests financial documents (Annual Reports, SEC Filings, Pitch Decks), processes them entirely locally to maintain strict data privacy, and generates structured boardroom-ready reports.
+
+## Tech Stack
+
+Frontend: Streamlit
+
+LLM Engine: Ollama (Local AI execution)
+
+Document Processing: PyMuPDF4LLM (High-fidelity PDF to Markdown conversion)
+
+Language: Python 3.x
+
+## Key Features
+
+100% Local Processing: Zero data leakage. Documents never leave the host machine.
+
+Financial Table Preservation: Accurately converts complex balance sheets and income statements into Markdown.
+
+Context Overlap Chunking: Custom logic to feed massive documents into local LLMs without dropping data mid-sentence.
+
+Traceable Assertions: Generates 10-part reports (Executive Summary, Risk Assessment, Red Flags) with mandatory source page citations and confidence scores.
+
+## Installation & Setup
+
+Install Ollama from ollama.com and pull your preferred model (ollama run llama3).
+
+Clone this repository.
+
+Install dependencies: pip install streamlit ollama pymupdf4llm
+
+Run the application: streamlit run app.py
+
+## Usage
+Upload target company documents via the sidebar, specify an optional analysis focus, and generate the report. The system supports cross-document validation to flag inconsistencies between pitch decks and audited financials.
+
 ## 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/arunkumarpremsai
 - **Email:** arunkumarpremsai@gmail.com
