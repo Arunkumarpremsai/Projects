@@ -81,7 +81,6 @@ Analysis: Collected and analyzed sales data over a three-month period to determi
 
 Strategy: Modeled an alternative experiment utilizing targeted social media advertising for enhanced engagement.
 
-View Full Experiment Report (PDF) (Replace with your repo link)
 
 3️⃣ Data Modeling with Microsoft Power BI
 
@@ -93,7 +92,6 @@ Analysis: Utilized DAX to create calculated columns, compute total sales, and an
 
 Business Insights: Identified the top three products based on average sales and computed 2015 net profit by segment to isolate profitability drivers.
 
-View Power BI Project File (Replace with your repo link)
 
 📫 Let's Connect!
 
