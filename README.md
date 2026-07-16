@@ -1,35 +1,181 @@
-📊 Arun Kumar | Market Research & Data Analytics
 
-Welcome to my GitHub repository! Here, I showcase projects that blend data analysis, market research, artificial intelligence, and business intelligence to drive strategic decision-making.
+# 📊 Market Research & Business Analytics Portfolio
 
-🚀 About Me
+Welcome to my **Market Research & Business Analytics Portfolio**. This repository contains projects demonstrating my skills in **market research, business intelligence, sales analytics, customer insights, and data visualization** using **Power BI, Python, and Excel**.
 
-I'm a Market Research Analyst and Data Professional passionate about uncovering trends, analyzing consumer behavior, and transforming raw data into actionable insights. With expertise in data-driven strategy, competitive analysis, pricing optimization, and modern AI tooling, I strive to turn complex information into measurable business impact.
+The projects focus on transforming business data into actionable insights that support strategic decision-making.
 
-🛠️ Tools & Technologies
-
-Programming & AI: Python | R | SQL | Streamlit | Ollama (Local LLMs)
-
-Data Visualization: Power BI | Tableau | Excel
-
-Market Research: Competitive Analysis | Customer Insights | Trend Forecasting | A/B Testing
+---
 
 
-3️⃣ Data Modeling with Microsoft Power BI
+# 🛠️ Skills & Tools
 
-📈 Core business analytics, data cleaning, and DAX optimization.
+### Data Analytics
 
-Data Cleaning & Structure: Loaded, explored, and rectified errors in foundational business datasets to ensure reporting accuracy.
+- Python
+- SQL
+- Microsoft Excel
 
-Analysis: Utilized DAX to create calculated columns, compute total sales, and analyze trends by year and category.
+### Business Intelligence
 
-Business Insights: Identified the top three products based on average sales and computed 2015 net profit by segment to isolate profitability drivers.
+- Microsoft Power BI
+- DAX
+- Power Query
+
+### Market Research
+
+- Market Analysis
+- Competitive Analysis
+- Consumer Insights
+- Pricing Analysis
+- A/B Testing
+- Trend Analysis
+- Customer Segmentation
+
+### Data Visualization
+
+- Power BI
+- Excel Dashboards
+
+---
+
+# 📂 Repository Contents
+
+## 📈 Australian Apparel Market Analysis
+
+**File:** `Aus_Apparel_project.ipynb`
+
+A Python-based market analysis project exploring the Australian apparel industry using exploratory data analysis and visualization techniques.
+
+### Highlights
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Consumer & Sales Trend Analysis
+- Visual Analytics
+- Business Insights & Recommendations
+
+**Tools Used**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## 🧪 Marketing Experiment Analysis
+
+**File:** `Marketing_Experiment.pdf`
+
+A business case study evaluating the impact of marketing experiments using analytical techniques to measure campaign effectiveness.
+
+### Highlights
+
+- Marketing Campaign Evaluation
+- A/B Testing Analysis
+- Statistical Interpretation
+- Business Recommendations
+- Performance Measurement
+
+---
+
+## 📊 Sales Analytics Dashboard
+
+**File:** `Sales_Analytics.pbix`
+
+An interactive Power BI dashboard providing comprehensive insights into sales performance and business KPIs.
+
+### Dashboard Features
+
+- Sales Performance Analysis
+- Revenue Trends
+- Product Performance
+- Regional Analysis
+- Profitability Analysis
+- KPI Monitoring
+
+**Tools Used**
+
+- Microsoft Power BI
+- DAX
+- Power Query
+
+---
+
+## 📄 Sales Dashboard Report
+
+**File:** `Sales_Dashboard.pdf`
+
+A PDF version of the Power BI dashboard showcasing business performance through interactive visualizations and executive-level reporting.
+
+### Key Insights
+
+- Sales Trends
+- Profit Analysis
+- Category Performance
+- Customer Insights
+- Regional Performance
+
+---
+
+## 🏪 Superstore Sales Dashboard
+
+**File:** `Superstore project.pbix`
+
+A Power BI project built using the Superstore dataset to analyze sales, profits, customer segments, and regional performance.
+
+### Dashboard Highlights
+
+- Sales & Profit Analysis
+- Customer Segment Analysis
+- Regional Performance
+- Product Category Insights
+- Executive KPI Dashboard
+- Interactive Filters & Visualizations
+
+**Tools Used**
+
+- Microsoft Power BI
+- DAX
+- Power Query
+
+---
+
+# 📈 Skills Demonstrated
+
+- Market Research
+- Business Analytics
+- Data Cleaning
+- Exploratory Data Analysis
+- Dashboard Development
+- Data Visualization
+- KPI Reporting
+- Sales Analysis
+- Consumer Insights
+- Marketing Analytics
+- Statistical Analysis
+- Business Storytelling
 
 
-📫 Let's Connect!
+---
 
-LinkedIn: linkedin.com/in/arunkumarpremsai
+# 📫 Connect With Me
 
-Email: arunkumarpremsai@gmail.com
+📧 **Email:** arunkumarpremsai@gmail.com
 
-🚀 Always building, always analyzing. Stay tuned for more data-driven projects!
+💼 **LinkedIn:** https://linkedin.com/in/arunkumarpremsai
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star**.
+
+Feedback, suggestions, and collaboration opportunities are always welcome!
+
+---
+
+> **"Turning business data into actionable insights for smarter decision-making."**
+```
